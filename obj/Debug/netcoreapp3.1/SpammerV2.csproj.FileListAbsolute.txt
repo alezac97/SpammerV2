@@ -1,0 +1,15 @@
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.exe
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.deps.json
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.runtimeconfig.json
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.runtimeconfig.dev.json
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.dll
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\bin\Debug\netcoreapp3.1\SpammerV2.pdb
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.csprojAssemblyReference.cache
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.SpammerV2.resources
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.csproj.GenerateResource.cache
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.AssemblyInfoInputs.cache
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.AssemblyInfo.cs
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.csproj.CoreCompileInputs.cache
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.dll
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.pdb
+C:\Users\aleza\source\repos\SpammerV2\SpammerV2\obj\Debug\netcoreapp3.1\SpammerV2.genruntimeconfig.cache
