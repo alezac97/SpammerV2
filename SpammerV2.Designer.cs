@@ -123,7 +123,7 @@ namespace SpammerV2
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.Aqua;
-            this.label2.Location = new System.Drawing.Point(131, 243);
+            this.label2.Location = new System.Drawing.Point(130, 235);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(48, 15);
             this.label2.TabIndex = 7;
@@ -134,7 +134,7 @@ namespace SpammerV2
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(743, 323);
+            this.ClientSize = new System.Drawing.Size(712, 323);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -144,6 +144,7 @@ namespace SpammerV2
             this.Controls.Add(this.Stop);
             this.Controls.Add(this.Start);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "SpammerV2";
             this.Text = "Spammer";
             this.ResumeLayout(false);
